@@ -1,0 +1,2 @@
+C:\Users\olste\Desktop\LoginCapas\DataAccess\Debug\DataAccess.vcxprojAssemblyReference.cache
+C:\Users\olste\Desktop\LoginCapas\DataAccess\Debug\DataAccess.vcxproj.CopyComplete

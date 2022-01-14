@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+  Form1.cpp
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  LoginCapas.vcxproj -> C:\Users\olste\Desktop\LoginCapas\Debug\LoginCapas.exe

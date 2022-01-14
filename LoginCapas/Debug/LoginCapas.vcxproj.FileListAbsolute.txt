@@ -1,0 +1,4 @@
+C:\Users\olste\Desktop\LoginCapas\LoginCapas\Debug\LoginCapas.vcxprojAssemblyReference.cache
+C:\Users\olste\Desktop\LoginCapas\LoginCapas\Debug\LoginCapas.Form1.resources
+C:\Users\olste\Desktop\LoginCapas\LoginCapas\Debug\LoginCapas.vcxproj.GenerateResource.cache
+C:\Users\olste\Desktop\LoginCapas\LoginCapas\Debug\LoginCapas.vcxproj.CopyComplete

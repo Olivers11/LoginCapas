@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  DataAccess.cpp
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  DataAccess.vcxproj -> C:\Users\olste\Desktop\LoginCapas\Debug\DataAccess.dll

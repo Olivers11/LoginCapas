@@ -1,0 +1,2 @@
+C:\Users\olste\Desktop\LoginCapas\Domain\Debug\Domain.vcxprojAssemblyReference.cache
+C:\Users\olste\Desktop\LoginCapas\Domain\Debug\Domain.vcxproj.CopyComplete
